@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Entrenando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kev1226/NODE-COURSE.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "kevin"
+  ],
+  "author": "Kevin Lema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kev1226/NODE-COURSE/issues"
+  },
+  "homepage": "https://github.com/kev1226/NODE-COURSE#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  }
+}
